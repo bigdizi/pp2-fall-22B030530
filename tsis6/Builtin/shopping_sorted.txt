@@ -1,0 +1,7 @@
+avocado
+banana
+cheese
+cherry
+juice
+salt
+samsa
