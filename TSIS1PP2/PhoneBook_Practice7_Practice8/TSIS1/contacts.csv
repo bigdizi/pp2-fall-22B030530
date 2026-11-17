@@ -1,0 +1,4 @@
+name,phone,email,birthday,group,phone_type
+Alice Brown,+77070000101,alice@gmail.com,2001-04-12,Family,mobile
+Mark Smith,+77070000102,mark@company.com,1999-09-21,Work,work
+Sara White,+77070000103,sara@example.com,2002-01-30,Friend,home
